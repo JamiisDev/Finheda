@@ -1,0 +1,349 @@
+*{
+background-color: var(--bs-blue-blue-bg); 
+margin: 0;
+padding: 0;
+}
+
+
+
+/* Filtro 1*/
+
+#filtro{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: 10px;
+    margin: 0 auto;
+    color: var(--bs-body-color);
+    background-color: var(--bs-body-bg);
+    width: 20%;
+    height: 5vh;
+    border-radius: 30px;
+    text-align: center;
+    font-size: 18px;
+}
+option, .filter1{
+background-color:var(--bs-body-bg);
+
+}
+
+/* Filtro 2*/
+
+#filtrodemes{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: 50px;
+    margin: 0 auto;
+    color: var(--bs-body-bg);
+    width: 15%;
+    height: 4vh;
+    text-align: center;
+    font-size: 15px;
+    border-radius: 5px 10px;
+    z-index: 1;
+    
+}
+
+option, .filter2{
+    background-color:var(--bs-gradient);
+    
+    }
+    
+
+/*fundo branco*/
+
+    .containerpai {
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        padding-top: 10%
+    }
+
+
+    .fund {
+        display: flex;
+        position: relative;
+        top: 30%; 
+        width: 100%;
+        height: 100vh;
+        background-color: var(--bs-body-bg);
+        border-radius: 35px 35px 0 0;
+    }
+    
+/* Saldo atual*/
+    .saldoatual {
+        display: flex;
+        position: absolute;
+        bottom: 50%;
+        z-index: 2;
+        background-color: #fff;
+}  
+
+
+.sld1{
+        display: flex;
+        position: absolute;
+        bottom: 64px;
+        left: 7%;
+        background-color: #fff;
+        font-size: 19px;
+        color: var(--bs-gray-600);
+}
+.vlr1{
+        background-color: #fff;
+        display: flex;
+        position: absolute;
+        bottom: 20px;
+        left: 7%;   
+    }
+    
+.alinhaimgsald{
+    display: flex;
+    text-align: center;
+}
+
+/* Balanço financeiro*/
+
+.balanco {
+    display: flex;
+    position: absolute;
+    bottom: 50%;
+    z-index: 2;
+    background-color: #fff;
+}  
+
+
+.blc1{
+    display: flex;
+    position: absolute;
+    bottom: 64px;
+    left: 80%;
+    background-color: #fff;
+    font-size: 19px;
+    color: var(--bs-gray-600);
+}
+.vlr2{
+    background-color: #fff;
+    display: flex;
+    position: absolute;
+    bottom: 20px;
+    left: 80%;   
+}
+
+.alinhaimgbala{
+display: flex;
+text-align: center;
+}
+
+/* linhas */
+
+
+
+
+.linhahorizontal{
+
+    display: flex;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    bottom: 445px;
+    width: 99%;
+    height: 2px;
+    background-color: var(--bs-black);
+  
+
+
+}
+
+.linhavertical{
+
+    display: flex;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    bottom: 535px;
+    width: 3px;
+    height: 15vh;
+    background-color: var(--bs-black);
+    
+
+}
+
+
+/*historico */
+
+.hoje{
+        background-color: #fff;
+        display: flex;
+        position: absolute;
+        bottom: 200px;
+        left: 7%;   
+        font-size: 19px;
+    }
+
+
+
+.investimentoimg{
+
+    display: flex;
+    position: absolute;
+    bottom: 130px;
+    left: 7%;
+    background-color: #fff;
+    z-index: 3;
+
+
+}
+
+.text1{
+    display: flex;
+    position: absolute;
+    bottom: 130px;
+    left: 12%;
+    background-color: #fff;
+    font-size: 19px;
+    color: var(--bs-gray-600);
+}
+
+.valor1{
+    display: flex;
+    position: absolute;
+    bottom: 130px;
+    left: 88%;
+    background-color: #fff;
+    font-size: 19px;
+    color: var(--bs-red);
+}
+
+
+.investimentoimg1{
+
+    display: flex;
+    position: absolute;
+    bottom: 80px;
+    left: 7%;
+    background-color: #fff;
+    z-index: 3;
+
+
+}
+
+.text2{
+    display: flex;
+    position: absolute;
+    bottom: 80px;
+    left: 12%;
+    background-color: #fff;
+    font-size: 19px;
+    color: var(--bs-gray-600);
+}
+
+.valor2{
+    display: flex;
+    position: absolute;
+    bottom: 80px;
+    left: 88%;
+    background-color: #fff;
+    font-size: 19px;
+    color: var(--bs-green);
+}
+
+.investimentoimg2{
+
+    display: flex;
+    position: absolute;
+    bottom: 30px;
+    left: 7%;
+    background-color: #fff;
+    z-index: 3;
+
+
+}
+
+.text3{
+    display: flex;
+    position: absolute;
+    bottom: 30px;
+    left: 12%;
+    background-color: #fff;
+    font-size: 19px;
+    color: var(--bs-gray-600);
+}
+
+.valor3{
+    display: flex;
+    position: absolute;
+    bottom: 30px;
+    left: 88%;
+    background-color: #fff;
+    font-size: 19px;
+    color: var(--bs-red);
+}
+
+
+/*menu*/
+
+.menus {
+    display: flex;
+    justify-content: space-around; 
+    align-items: center; 
+    width: 100%;
+    padding: 10px; 
+
+}
+
+.menus :hover{
+   
+background-color:var( --bs-gray);
+transition: 1, 10s;
+opacity: 90%;
+padding: auto;
+bottom: 60px;
+
+border-radius: 50px;
+}
+
+.sinalmais{
+
+    display: flex;
+    position: relative;
+    bottom: 45px;
+
+}
+
+.casinha{
+
+    display: flex;
+    position: relative;
+    bottom: 45px;
+
+}
+.carteiramn1{
+
+    display: flex;
+    position: relative;
+    bottom: 45px;
+
+}
+.cifraomn1{
+
+    display: flex;
+    position: relative;
+    bottom: 45px;
+
+}
+.configuracao{
+
+    display: flex;
+    position: relative;
+    bottom: 45px;
+
+}
+

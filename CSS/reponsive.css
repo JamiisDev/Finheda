@@ -1,0 +1,643 @@
+@media(max-width: 2011px){
+
+    .sld1{ 
+        bottom: 8vw;
+    }
+    .vlr1{
+        bottom: 5vw;
+    }
+    .blc1{ 
+        bottom: 8vw;
+        left: 80vw;
+        white-space: nowrap;
+    }
+    .vlr2{
+        bottom: 5vw;
+        left: 80vw;
+        white-space: nowrap;
+    }
+    .linhahorizontal{
+        bottom: 84vh;
+    }
+    .linhavertical{
+        bottom: 100vh;
+    }
+    .hoje{
+        bottom: 45vh;
+        font-size: 30px;
+    }
+
+    .investimentoimg{
+        bottom: 30vh;
+        width: 55px;
+        height: 55px;
+    }
+    .text1{
+        bottom: 30vh;
+        font-size: 25px;
+    }
+    .valor1{
+        bottom: 30vh;
+        font-size: 25px;
+    }
+    .investimentoimg1{
+        bottom: 20vh;
+        width: 55px;
+        height: 55px;
+    }
+    .text2{
+        bottom: 20vh;
+        font-size: 25px;
+    }
+    .valor2{
+        bottom: 20vh;
+        font-size: 25px;
+    }
+    .investimentoimg2{
+        bottom: 10vh;
+        width: 55px;
+        height: 55px;
+    }
+    .text3{
+        bottom: 10vh;
+        font-size: 25px;
+    }
+    .valor3{
+        bottom: 10vh;
+        font-size: 25px;
+    }
+}
+@media(max-width: 1770px){
+
+    .sld1{ 
+        bottom: 8vw;
+    }
+    .vlr1{
+        bottom: 5vw;
+    }
+    .blc1{ 
+        bottom: 8vw;
+        left: 80vw;
+        white-space: nowrap;
+    }
+    .vlr2{
+        bottom: 5vw;
+        left: 80vw;
+        white-space: nowrap;
+    }
+    .linhahorizontal{
+        bottom: 84vh;
+    }
+    .linhavertical{
+        bottom: 100vh;
+    }
+    .hoje{
+        bottom: 45vh;
+        font-size: 30px;
+    }
+
+    .investimentoimg{
+        bottom: 30vh;
+        width: 55px;
+        height: 55px;
+    }
+    .text1{
+        bottom: 30vh;
+        font-size: 25px;
+    }
+    .valor1{
+        bottom: 30vh;
+        font-size: 25px;
+    }
+    .investimentoimg1{
+        bottom: 20vh;
+        width: 55px;
+        height: 55px;
+    }
+    .text2{
+        bottom: 20vh;
+        font-size: 25px;
+    }
+    .valor2{
+        bottom: 20vh;
+        font-size: 25px;
+    }
+    .investimentoimg2{
+        bottom: 10vh;
+        width: 55px;
+        height: 55px;
+    }
+    .text3{
+        bottom: 10vh;
+        font-size: 25px;
+    }
+    .valor3{
+        bottom: 10vh;
+        font-size: 25px;
+    }
+
+}
+
+@media(max-width: 1735px ){
+    .sld1{ 
+        bottom: 10vw;
+    }
+    .vlr1{
+        bottom: 7vw;
+    }
+    .blc1{ 
+        bottom: 10vw;
+        left: 80vw;
+        white-space: nowrap;
+    }
+    .vlr2{
+        bottom: 7vw;
+        left: 80vw;
+        white-space: nowrap;
+    }
+}
+
+@media(max-width: 1629px ){
+    .sld1{ 
+        bottom: 9vw;
+    }
+    .vlr1{
+        bottom: 5vw;
+    }
+    .blc1{ 
+        bottom: 9vw;
+        left: 80vw;
+        white-space: nowrap;
+    }
+    .vlr2{
+        bottom: 5vw;
+        left: 80vw;
+        white-space: nowrap;
+    }
+}
+
+@media(max-width: 1563px ){
+    .sld1{ 
+        bottom: 10vw;
+    }
+    .vlr1{
+        bottom: 7vw;
+    }
+    .blc1{ 
+        bottom: 10vw;
+        left: 80vw;
+        white-space: nowrap;
+    }
+    .vlr2{
+        bottom: 7vw;
+        left: 80vw;
+        white-space: nowrap;
+    }
+}
+
+@media(max-width: 1520px ){
+    .sld1{ 
+        bottom: 13vw;
+    }
+    .vlr1{
+        bottom: 10vw;
+    }
+    .blc1{ 
+        bottom: 13vw;
+        left: 80vw;
+        white-space: nowrap;
+    }
+    .vlr2{
+        bottom: 10vw;
+        left: 80vw;
+        white-space: nowrap;
+    }
+}
+@media(max-width: 1517px ){
+    .sld1{ 
+        bottom: 10vw;
+    }
+    .vlr1{
+        bottom: 7vw;
+    }
+    .blc1{ 
+        bottom: 10vw;
+        left: 80vw;
+        white-space: nowrap;
+    }
+    .vlr2{
+        bottom: 7vw;
+        left: 80vw;
+        white-space: nowrap;
+    }
+}
+@media(max-width: 1370px ){
+    .sld1{ 
+        bottom: 13vw;
+    }
+    .vlr1{
+        bottom: 9vw;
+    }
+    .blc1{ 
+        bottom: 13vw;
+        left: 80vw;
+        white-space: nowrap;
+    }
+    .vlr2{
+        bottom: 9vw;
+        left: 80vw;
+        white-space: nowrap;
+    }
+}
+
+@media(max-width: 1217px ){
+    .sld1{ 
+        bottom: 16vw;
+    }
+    .vlr1{
+        bottom: 12vw;
+    }
+    .blc1{ 
+        bottom: 16vw;
+        left: 80vw;
+        white-space: nowrap;
+    }
+    .vlr2{
+        bottom: 12vw;
+        left: 80vw;
+        white-space: nowrap;
+    }
+}
+
+@media(max-width: 1215px ){
+    .sld1{ 
+        bottom: 16vw;
+    }
+    .vlr1{
+        bottom: 12vw;
+    }
+    .blc1{ 
+        bottom: 16vw;
+        left: 80vw;
+        white-space: nowrap;
+    }
+    .vlr2{
+        bottom: 12vw;
+        left: 80vw;
+        white-space: nowrap;
+    }
+}
+@media(max-width: 1046px ){
+    .sld1{ 
+        bottom: 20vw;
+    }
+    .vlr1{
+        bottom: 16vw;
+    }
+    .blc1{ 
+        bottom: 20vw;
+        left: 80vw;
+        white-space: nowrap;
+    }
+    .vlr2{
+        bottom: 16vw;
+        left: 80vw;
+        white-space: nowrap;
+    }
+    .hoje{
+        bottom: 53vh;
+        font-size: 30px;
+    }
+    .investimentoimg{
+        bottom: 40vh;
+        width: 55px;
+        height: 55px;
+    }
+    .text1{
+        bottom: 40vh;
+        font-size: 25px;
+        left: 16vw;
+    }
+    .valor1{
+        bottom: 40vh;
+        font-size: 25px;
+        left: 85vw;
+    }
+    .investimentoimg1{
+        bottom: 30vh;
+        width: 55px;
+        height: 55px;
+    }
+    .text2{
+        bottom: 30vh;
+        font-size: 25px;
+        left: 16vw;
+    }
+    .valor2{
+        bottom: 30vh;
+        font-size: 25px;
+        left: 85vw;
+    }
+    .investimentoimg2{
+        bottom: 20vh;
+        width: 55px;
+        height: 55px;
+    }
+    .text3{
+        bottom: 20vh;
+        font-size: 25px;
+        left: 16vw;
+    }
+    .valor3{
+        bottom: 20vh;
+        font-size: 25px;
+        left: 85vw;
+    }
+}
+
+@media(max-width: 894px ){
+    .sld1{ 
+        bottom: 24vw;
+    }
+    .vlr1{
+        bottom: 19vw;
+    }
+    .blc1{ 
+        bottom: 24vw;
+        left: 80vw;
+        white-space: nowrap;
+    }
+    .vlr2{
+        bottom: 19vw;
+        left: 80vw;
+        white-space: nowrap;
+    }
+    .hoje{
+        bottom: 51vh;
+        font-size: 30px;
+    }
+    .investimentoimg{
+        bottom: 40vh;
+        width: 55px;
+        height: 55px;
+    }
+    .text1{
+        bottom: 40vh;
+        font-size: 25px;
+        left: 16vw;
+    }
+    .valor1{
+        bottom: 40vh;
+        font-size: 25px;
+        left: 85vw;
+    }
+    .investimentoimg1{
+        bottom: 30vh;
+        width: 55px;
+        height: 55px;
+    }
+    .text2{
+        bottom: 30vh;
+        font-size: 25px;
+        left: 16vw;
+    }
+    .valor2{
+        bottom: 30vh;
+        font-size: 25px;
+        left: 85vw;
+    }
+    .investimentoimg2{
+        bottom: 20vh;
+        width: 55px;
+        height: 55px;
+    }
+    .text3{
+        bottom: 20vh;
+        font-size: 25px;
+        left: 16vw;
+    }
+    .valor3{
+        bottom: 20vh;
+        font-size: 25px;
+        left: 85vw;
+    }
+
+}
+@media(max-width: 808px ){
+    .sld1{ 
+        bottom: 30vw;
+    }
+    .vlr1{
+        bottom: 25vw;
+    }
+    .blc1{ 
+        bottom: 30vw;
+        left: 76vw;
+        white-space: nowrap;
+    }
+    .vlr2{
+        bottom: 25vw;
+        left: 76vw;
+        white-space: nowrap;
+    }
+}
+
+@media(max-width: 670px ){
+    .sld1{ 
+        bottom: 36vw;
+    }
+    .vlr1{
+        bottom: 29vw;
+    }
+    .blc1{ 
+        bottom: 36vw;
+        left: 73vw;
+        white-space: nowrap;
+    }
+    .vlr2{
+        bottom: 29vw;
+        left: 73vw;
+        white-space: nowrap;
+    }
+    .valor1{
+        bottom: 40vh;
+        font-size: 25px;
+        left: 80vw;
+    }
+    .valor2{
+        bottom: 30vh;
+        font-size: 25px;
+        left: 80vw;
+    }
+    .valor3{
+        bottom: 20vh;
+        font-size: 25px;
+        left: 80vw;
+    }
+    
+}
+
+
+@media(max-width: 531px){
+
+    #filtro{
+        font-size: 15px;
+    }
+
+    #filtrodemes{
+        font-size: 11px;
+    } 
+    
+    .sld1{ 
+        bottom: 45vw;
+    }
+    .vlr1{
+        bottom: 50vw;
+    }
+    .blc1{ 
+        bottom: 45vw;
+        left: 73vw;
+        white-space: nowrap;
+    }
+    .vlr2{
+        bottom: 29vw;
+        left: 73vw;
+        white-space: nowrap;
+    }
+    .valor1{
+        bottom: 40vh;
+        font-size: 25px;
+        left: 80vw;
+    }
+    .valor2{
+        bottom: 30vh;
+        font-size: 25px;
+        left: 80vw;
+    }
+    .valor3{
+        bottom: 20vh;
+        font-size: 25px;
+        left: 80vw;
+    }
+}
+
+
+
+@media(max-width: 464px){
+
+    #filtro{
+        font-size: 12px;
+    }
+    #filtrodemes{
+        font-size: 8px;
+    }
+    
+}
+
+
+
+@media(max-width: 397px){
+
+    #filtro{
+        font-size: 10px;
+    }
+    #filtrodemes{
+        font-size: 5px;
+    }
+    
+}
+
+
+
+@media(max-width: 320px){
+
+    #filtro{
+        font-size: 8px;
+    }
+    #filtrodemes{
+        font-size: 3px;
+    }
+    
+}
+
+
+@media(max-width: 667px){
+
+.sld1{
+    font-size: 17px;
+}
+.vlr1{
+    font-size: 18px;
+    bottom: 35px
+}
+
+.blc1{
+font-size: 17px; 
+}
+.vlr2{
+    font-size: 18px;
+    bottom: 35px
+}
+
+}
+
+@media(max-width: 595px){
+
+    .sld1{
+        font-size: 17px;
+        left: 8%;
+
+    }
+    .vlr1{
+        font-size: 18px;
+        bottom: 35px;
+        left: 8%;
+    }
+    
+    
+    .blc1{
+    font-size: 15px; 
+    left: 78%;
+    }
+    .vlr2{
+        font-size: 18px;
+        bottom: 35px;
+        left: 78%;
+    }
+    
+    }
+
+    @media(max-width: 480px){
+
+        /* saldo atual */ 
+
+        .sld1{
+            font-size: 17px;
+            left: 10%;
+    
+        }
+        .vlr1{
+            font-size: 18px;
+            bottom: 35px;
+            left: 10%;
+        }
+        
+        /* balaço mensal */
+        
+        .carteira1{
+            width: 16px;
+            height: 16px;
+            bottom: 73px;
+            left: 70%;
+        }
+        .blc1{
+        font-size: 15px; 
+        left: 75%;
+        }
+        .vlr2{
+            font-size: 18px;
+            bottom: 35px;
+            left: 75%;
+        }
+        
+        }
